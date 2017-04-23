@@ -1,0 +1,10 @@
+**********************************************************
+*  The project is coded in C++                           *
+*                                                        *
+*  Encoding is done using command:                       *
+*  ./encoder <input_file_name>                           *
+*                                                        *
+*  Decoding is done using command                        *
+*  ./decoder <encoded_file_name> <code_table_file_name>  *
+**********************************************************
+
